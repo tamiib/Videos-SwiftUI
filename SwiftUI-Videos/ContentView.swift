@@ -7,6 +7,9 @@
 
 import SwiftUI
 
+
+//prvi komit koji zelim dodati
+
 struct ContentView: View {
     var videos : [Video] = VideoList.topTwele
     
