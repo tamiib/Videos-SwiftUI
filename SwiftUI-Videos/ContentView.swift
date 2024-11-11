@@ -10,6 +10,8 @@ import SwiftUI
 
 //prvi komit koji zelim dodati
 
+//promjena na morgage
+
 struct ContentView: View {
     var videos : [Video] = VideoList.topTwele
     
